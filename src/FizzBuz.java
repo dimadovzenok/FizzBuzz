@@ -10,7 +10,7 @@ public class FizzBuz {
 	        {
 	            
 	            if (i%15==0)                                                
-	                System.out.print("FizzBuzz"+" ");
+	                System.out.print("FizzBuzzz"+" ");
 	           
 	            else if (i%5==0)    
 	                System.out.print("Buzz"+" ");
